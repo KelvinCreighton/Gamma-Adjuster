@@ -1,10 +1,8 @@
 # Gamma-Adjuster
 
-This program adjusts the gamma level of the screen using keyboard inputs.
+This C# program adjusts the gamma level of the screen using keyboard inputs.
 
 ## Installation
-
-To install and run the GammaAdjuster Program, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/KelvinCreighton/Gamma-Adjuster.git`
 2. Compile the program using the "compile.bat" (not required)
