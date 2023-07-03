@@ -8,7 +8,6 @@ To install and run the GammaAdjuster Program, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/KelvinCreighton/Gamma-Adjuster.git`
 2. Compile the program using the "compile.bat" (not required)
-3. Run the "ManualGammaAdjust.exe" file
 
 ## Usage
 
